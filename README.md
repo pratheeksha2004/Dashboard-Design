@@ -14,7 +14,7 @@ This project is a frontend dashboard built using React, Vite, and Tailwind CSS. 
     *   Create and process invoices
     *   Track and manage inventory
     *   Manage customer records
-    *   Daily sales reports
+    *   Charts displaying Daily sales reports
 *   **Admin Dashboard:**
     *   Manage users (add, edit, and remove)
     *   Configure third-party integrations
@@ -38,13 +38,13 @@ This project is a frontend dashboard built using React, Vite, and Tailwind CSS. 
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/frontend-dashboard.git
+    git clone https://github.com/pratheeksha2004/Dashboard-Design.git
     ```
 
 2.  **Navigate to the project directory:**
 
     ```bash
-    cd frontend-dashboard
+    cd Dashboard-Design
     ```
 
 3.  **Install dependencies:**
